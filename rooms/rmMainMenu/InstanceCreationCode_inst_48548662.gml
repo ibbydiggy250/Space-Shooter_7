@@ -1,0 +1,1 @@
+myDirection = "up";
